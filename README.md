@@ -5,7 +5,7 @@ I am a self-taught full stack developer from Kerala, India.
 
 - 💪 2<sup>+</sup> years of experience in *Django, Flask, Flutter & Vue.js*
 
-- 📈 Built [My KTU Official](https://play.google.com/store/apps/details?id=com.hddevs.ktu_app), [Bulk Square-Fit](https://bulk-squarefit.herokuapp.com/) & more.
+- 📈 Built [My KTU Official](https://play.google.com/store/apps/details?id=com.hddevs.ktu_app), [Bulk Square-Fit](https://haridev.me/bulk-squarefit/) & more.
 
 <br>
 
