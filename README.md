@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### 🖥️ Backend Powerhouse (Primary Focus)
+### 🖥️ Backend Powerhouse
 <img height="60" src="./assets/python.png" alt="Python" title="Python"/>
 <img height="60" src="./assets/django.svg" alt="Django" title="Django"/>
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>
@@ -44,7 +44,7 @@
 <img height="60" src="./assets/dart.png" alt="Dart" title="Dart"/>
 <img height="60" src="./assets/flutter.png" alt="Flutter" title="Flutter"/>
 
-### 🎨 Frontend (Secondary)
+### 🎨 Frontend
 <img height="60" src="./assets/javascript.png" alt="JavaScript" title="JavaScript"/>
 <img height="60" src="./assets/vue.png" alt="Vue.js" title="Vue.js"/>
 <img height="60" src="./assets/html.png" alt="HTML5" title="HTML5"/>
