@@ -32,9 +32,9 @@
 ### 🖥️ Backend Powerhouse (Primary Focus)
 <img height="60" src="./assets/python.png" alt="Python" title="Python"/>
 <img height="60" src="./assets/django.svg" alt="Django" title="Django"/>
-<img height="60" src="./assets/flask.png" alt="Flask" title="Flask"/>
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" title="SQLAlchemy"/>
+<img height="60" src="./assets/flask.png" alt="Flask" title="Flask"/>
 
 ### ⛁ Databases & Caching
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
